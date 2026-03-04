@@ -14,7 +14,7 @@
   <a href="mailto:roshangaikwd2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/kalpesh-bire-3b5833316">
+  <a href="https://www.linkedin.com/in/roshan-gaikwad-69a638328?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
 </p>
