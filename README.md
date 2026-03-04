@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Kalpesh Navnath Bire</h1>
+<h1 align="center">Hi 👋, I'm Roshan Nitin Gaikwad </h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
